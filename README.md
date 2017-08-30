@@ -4,7 +4,7 @@ Class With Dr.Griffin about DataMining
 # 5303-AdvDB-Madishetty
 
 
-https://photos.google.com/photo/AF1QipN9pbgzdNMzcOPbd7mKexCPm3ciqyMdGLJ4hExO
+https://goo.gl/photos/FYtebZUC9tFk7SfY7
 
 FIRST NAME      : KARAN 
 
