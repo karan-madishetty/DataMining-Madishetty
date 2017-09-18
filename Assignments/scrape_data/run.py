@@ -33,7 +33,7 @@ for i in range(0,len(forked_repo)):
     repo.append(string[0])
     desc.append("Forked"+string[1])
 new_dict = dict(zip(repo, desc))
-with open('data.json', 'w+') as outfile:
+with open('output.json', 'w+') as outfile:
         jsonData = json.dumps(new_dict,indent=True)
         outfile.write(jsonData)
 outfile.close()
