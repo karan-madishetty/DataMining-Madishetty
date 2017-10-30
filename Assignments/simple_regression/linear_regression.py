@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #Importing Dataset
-dataset = pd.read_csv('Data.csv') 
+dataset = pd.read_csv('mortgage_rates.csv') 
 a = dataset.iloc[:, :-1].values
 b = dataset.iloc[:, 1].values
 
