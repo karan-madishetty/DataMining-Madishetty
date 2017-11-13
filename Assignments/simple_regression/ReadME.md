@@ -1,4 +1,4 @@
-catsndogs
+simple_regression
 ==============================
 
 - ***Name:*** Karan Madishetty
