@@ -1,3 +1,17 @@
+
+==============================
+
+- ***Name:*** Karan Madishetty
+- ***Roster Number:*** M20228991
+
+|   #   |Group Names |
+|:----:|:------------------|
+|    1 | Muni Bhupathi Reddy Dandu     (M20228454)                  |
+|    3 | Karan Madishetty              (M20228991)           |
+
+----
+
+
 ### What is Spatial Transformer Network?
 
 Spatial Transformer Network (STN) is a differentiable module that can be inserted anywhere in ConvNet(CNN's) architecture to increase its geometric invariance. It effectively gives the network the ability to spatially transform _(Operations Such as Scaling, Rotation)_ feature maps at no extra data or supervision cost.
