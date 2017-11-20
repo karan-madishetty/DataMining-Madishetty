@@ -14,9 +14,8 @@ b = dataset.iloc[:, 1].values
 
 
 #Generating Training set and Test set
-
 from sklearn.cross_validation import train_test_split
-a_train, a_test, b_train, b_test = train_test_split(a, b, test_size = 1/4, random_state = 0)
+a_train, a_test, b_train, b_test = train_test_split(a, b, test_size = 1/3, random_state = 0)
 
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
