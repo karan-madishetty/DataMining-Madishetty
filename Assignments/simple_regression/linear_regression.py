@@ -1,3 +1,5 @@
+#Name: Karan Madishetty
+#Program: Simple Linear Regression
 
 import numpy as np
 import matplotlib.pyplot as plt
