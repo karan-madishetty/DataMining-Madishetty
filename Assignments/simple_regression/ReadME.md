@@ -3,7 +3,6 @@ simple_regression
 
 - ***Name:*** Karan Madishetty
 - ***Roster Number:*** M20228991
-
 ----
 This program gives us the result of Linear Regression between the Interest Rates and Median Home Price.
 where Median Home price is the dependent value and Interest Rates is Independent one.
