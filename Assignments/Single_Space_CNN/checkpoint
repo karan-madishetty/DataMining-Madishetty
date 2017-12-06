@@ -1,0 +1,2 @@
+model_checkpoint_path: "parking_lot_model"
+all_model_checkpoint_paths: "parking_lot_model"
