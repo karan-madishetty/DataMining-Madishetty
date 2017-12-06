@@ -1,7 +1,5 @@
-
 #Name: Karan Madishetty
-#Mwsu_Id: M20228991
-#Program: Simple_Linear_Regression
+#Program: Simple Linear Regression
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -23,7 +21,7 @@ regressor.fit(a_train, b_train)
 b_pred = regressor.predict(a_test)
 
 #Generating Graph Training set results
-plt.scatter(a_train, b_train, color = 'red' )
+plt.scatter(a_train, b_train, color = 'black' )
 plt.plot(a_train, regressor.predict(a_train), color = 'blue')
 plt.title('interest_rates vs Medain_home_price (Training set)')
 plt.xlabel('interest rates')
@@ -32,9 +30,9 @@ plt.show()
 
 
 #Generating Graph Test set results
-plt.scatter(a_test, b_test, color = 'red' )
+plt.scatter(a_test, b_test, color = 'black' )
 plt.plot(a_train, regressor.predict(a_train), color = 'blue')
-plt.title('interest_rates vs Medain_home_price (Test set)')
-plt.xlabel('interest rates')
-plt.ylabel('median home price')
+plt.title('Rate vs Price (Test set)')
+plt.xlabel('Rate')
+plt.ylabel('Price')
 plt.show()
